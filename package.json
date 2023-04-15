@@ -1,0 +1,13 @@
+{
+  "name": "el2pdf",
+  "version": "1.0.0",
+  "description": "将页面或者页面的一部分转为pdf",
+  "main": "main.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "html2canvas": "^1.4.1",
+    "jspdf": "^2.5.1"
+  }
+}
